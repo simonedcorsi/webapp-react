@@ -16,7 +16,7 @@ export default function MovieCard( {movie} ){
                     <p>
                         {abstract}
                     </p>
-                    <Link to={`movies/${id}`}>Read More</Link>
+                    <Link to={`movies/${id}`}>Look More</Link>
                 </div>
             </div>
         
